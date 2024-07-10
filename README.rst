@@ -127,7 +127,8 @@ Supporters
 |  `@rocketapi-io <https://github.com/rocketapi-io>`__
 
 See `Alex' GitHub Sponsors <https://github.com/sponsors/aandergr>`__ page for
-how you can sponsor the development of Instaloader!
+how you can sponsor the development of Instaloader!  
+
 
 .. current-sponsors-end
 
